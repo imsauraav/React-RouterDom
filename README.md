@@ -48,7 +48,7 @@ cd react-routerDom
 
 # 3. Install dependencies
 npm install
-npm run dev
+
 
 # 4. Start the development server
 npm run dev
